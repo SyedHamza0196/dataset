@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>2394</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>2304</width>
+    <height>1296</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bag</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1092</xmin>
+      <ymin>871</ymin>
+      <xmax>1281</xmax>
+      <ymax>1161</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>belt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>971</xmin>
+      <ymin>76</ymin>
+      <xmax>1369</xmax>
+      <ymax>1138</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bag</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1079</xmin>
+      <ymin>143</ymin>
+      <xmax>1229</xmax>
+      <ymax>315</ymax>
+    </bndbox>
+  </object>
+</annotation>

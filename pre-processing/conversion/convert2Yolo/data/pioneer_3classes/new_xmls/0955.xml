@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>0955</filename>
+	<path>C:\Users\Nasir\Desktop\tagging\Pioneer 4\images\train\0534.jpg</path>
+	<source>
+		<database>Coco database</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>5</ymin>
+			<xmax>1314</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1081</xmin>
+			<ymin>273</ymin>
+			<xmax>1237</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bag_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>949</ymin>
+			<xmax>882</xmax>
+			<ymax>1090</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bag_h</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>1085</ymin>
+			<xmax>791</xmax>
+			<ymax>1225</ymax>
+		</bndbox>
+	</object>
+</annotation>

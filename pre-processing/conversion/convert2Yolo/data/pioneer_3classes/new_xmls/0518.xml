@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>train</folder>
+	<filename>0518</filename>
+	<path>C:\Users\Nasir\Desktop\tagging\Pioneer 4\images\train\0718.jpg</path>
+	<source>
+		<database>Coco database</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1043</xmin>
+			<ymin>13</ymin>
+			<xmax>1264</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1087</xmin>
+			<ymin>186</ymin>
+			<xmax>1206</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>3597.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>2304</width>
+    <height>1296</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bag</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1087</xmin>
+      <ymin>410</ymin>
+      <xmax>1239</xmax>
+      <ymax>632</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>belt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>984</xmin>
+      <ymin>27</ymin>
+      <xmax>1386</xmax>
+      <ymax>1108</ymax>
+    </bndbox>
+  </object>
+</annotation>
